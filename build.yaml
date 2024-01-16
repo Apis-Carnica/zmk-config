@@ -19,6 +19,6 @@
 ---
 include:
   - board: nice_nano_v2
-    shield: orchid_left
+    shield: orchid-left
   - board: nice_nano_v2
-    shield: orchid_right
+    shield: orchid-right
