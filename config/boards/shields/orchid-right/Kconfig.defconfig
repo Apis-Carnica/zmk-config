@@ -1,0 +1,6 @@
+if SHIELD_ORCHID_RIGHT
+
+config ZMK_KEYBOARD_NAME
+	default "orchid-right"
+
+endif
